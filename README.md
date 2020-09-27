@@ -9,3 +9,5 @@ These contents used flask.
 Any contents connect to Hobby Lab page with "Blueprint" function of flask.
 
 If you created Hobby Lab contents, please look sample code for our contents.
+
+http://lab.opencae-kansai.work/
